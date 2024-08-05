@@ -1,0 +1,47 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.1.6
+Date: 9/4/20
+  Features:
+    - Add seablock compatibality
+---------------------------------------------------------------------------------------------------
+Version: 1.1.5
+Date: 2020-07-13
+  Bugfixes:
+    - Fixed error with Nauvis Day
+---------------------------------------------------------------------------------------------------
+Version: 1.1.3
+Date: 2020-06-29
+  Bugfixes:
+    - Breaking platforms now gives the correct item
+---------------------------------------------------------------------------------------------------
+Version: 1.1.2
+Date: 2020-06-25
+  Changes:
+    - Added setting to not replace landfill
+  Bugfixes:
+    - Landfill sprite is applied in final-fixes
+---------------------------------------------------------------------------------------------------
+Version: 1.1.1
+Date: 2020-06-25
+  Bugfixes:
+    - Now overrites landfill technology instead of removing it
+    - Teleporters compatibality
+---------------------------------------------------------------------------------------------------
+Version: 1.1.0
+Date: 2020-06-24
+  Major Changes:
+    - Landfill is now replaced with platforms
+  Bugfixes:
+    - You can now stack platforms under other tiles
+    - Tile ghosts no longer bug out the platforms
+    - Deconstructing blueprint ghosts when they are over platforms no longer makes them unbreakable
+    - You can no longer void things using platforms
+  Changes:
+    - Platforms now have a map color
+    - Platforms take 3x as long to mine
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 2020-06-22
+  Changes:
+    - Update to .18
+    - Added (stole) spanish translation

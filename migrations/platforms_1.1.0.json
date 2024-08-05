@@ -1,0 +1,12 @@
+{
+    "tile": [
+        ["micromario-platform", "landfill"],
+        ["micromario-immortal-platform", "unbreakable-landfill"]
+    ],
+    "item": [
+        ["platform", "landfill"]
+    ],
+    "recipe": [
+        ["platform", "landfill"]
+    ]
+}
